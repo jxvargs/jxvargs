@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose J
-- 👀 I’m interested in Linux and Python
+- 👀 I’m interested in [Linux](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000387584/9v5htrp48a) and Python
 - 🌱 I’m currently learning about Data Bases, The tools that I am using in this new journey are: 
   - Book "Practical SQL"
   - PostgreSQL and PgAdmin
