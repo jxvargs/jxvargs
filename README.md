@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Peter Pan
+# 👋 Hi, I’m Jose J
 
 🧠 I'm passionate about the endless journey of learning, especially in the world of `Linux` 🐧  
 🎓 [LPI Certified: Linux Essentials (LE-010)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000387584/9v5htrp48a)
@@ -41,6 +41,7 @@
 ### **Enthusiast** SysAdmin
 ---
 [The Linux Foundation](https://training.linuxfoundation.org/wp-content/uploads/2021/01/publication_Future_Proof_Your_SysAdmin_Career.pdf)
+
 ![Evolution of a SysAdmin](/Logos/evolution-sysadmin.png)
 
 ### Activity
