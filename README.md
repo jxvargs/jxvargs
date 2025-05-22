@@ -38,7 +38,7 @@
 
 </div>
 
-### **Enthusiast** SysAdmin
+### **Enthusiast** - SysAdmin
 ---
 [The Linux Foundation](https://training.linuxfoundation.org/wp-content/uploads/2021/01/publication_Future_Proof_Your_SysAdmin_Career.pdf)
 
