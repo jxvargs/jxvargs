@@ -24,7 +24,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## 📈 Estadísticas
+## 📈 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxvargs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxvargs&layout=compact&theme=radical)
 
