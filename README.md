@@ -8,6 +8,7 @@
 
 - Linux
   - :book: *Effective Shell*
+  - :book: *How Linux Works*
 - Git & GitHub
   - online platform
 - Python (Beginner)
